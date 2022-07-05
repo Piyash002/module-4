@@ -55,10 +55,19 @@ background-position: right;
     padding-left:20px ;
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
-    h
+    
     }
+    #full-stack-developer{
+        border-left: 8px solid orange;
+    }
+ #baby-developer{
+    border-left: 8px solid blue;
+ }
 .experience-item{
     background-image:url(260518384_3171231593106258_7932785341708806423_n.png);
     background-repeat:no-repeat;
    background-position:right;
+    }
+    footer p{
+        text-align: center;
     }
